@@ -12,7 +12,7 @@ title                    : "Shang Liu"
 title_separator          : "-"
 name                     : &name "Shang Liu"
 description              : &description "PhD candidate at HKUST"
-url                      : https://github.com/DevinShang/github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://DevinShang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DevinShang.github.io"
 

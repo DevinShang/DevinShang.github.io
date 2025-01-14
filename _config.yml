@@ -8,35 +8,35 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shang Liu"
+title                    : "Qijun Zhang"
 title_separator          : "-"
-name                     : &name "Shang Liu"
+name                     : &name "Qijun Zhang"
 description              : &description "PhD student at HKUST"
-url                      : https://devinshang.github.io
+url                      : https://zqj2333.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "devinshang.github.io"
+repository               : "zqj2333.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tutu.jpg"
-  name             : "Shang Liu"
+  avatar           : "profile.png"
+  name             : "Qijun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at HKUST"
   location         : "Hong Kong"
-  employer         : "HKUST"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "sliudx@connect.ust.hk" 
+  email            : "qzhangcs@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "DevinShang"
+  github           : "zqj2333"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

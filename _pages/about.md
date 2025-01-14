@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Shang Liu, a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. Zhiyao Xie. Before that, I received a bachelor's degree in EE from Beihang University in 2023. My research interests include the Large language model, AI algorithms, and electronic design automation. 
+I am Shang Liu, a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. Zhiyao Xie. Before that, I received a bachelor's degree in EE from Beihang University in 2023. My research interests include the large language model, AI algorithms, and electronic design automation. 
 
 Research Interests
 ======
- * Large language model
- * AI algorithm
+ * Large Language Model
+ * AI Algorithm
  * Electronic Design Automation
 
 Education
@@ -30,7 +30,7 @@ Publication
 
 * **Shang Liu**, Wenji Fang, et al., "Rtlcoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution", *IEEE International Workshop on LLM-Aided Design (LAD) 2024*. **Best Paper Nomination.** [https://arxiv.org/abs/2312.08617](https://arxiv.org/abs/2312.08617)
 
-* Yao Lu, **Shang Liu**, et al., "RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model", *Asia and South Pacific Design Automation Conference (ASP-DAC) 2024*. (**Equal Contribution**).
+* Yao Lu\*, **Shang Liu**\*, et al., "RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model", *Asia and South Pacific Design Automation Conference (ASP-DAC) 2024*. (\***Equal Contribution**).
 
 * Wenji Fang, Yao Lu, **Shang Liu**, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie, "Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
 

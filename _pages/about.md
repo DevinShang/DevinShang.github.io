@@ -28,7 +28,7 @@ Publication
 
 * **Shang Liu**, Yao Lu, Wenji Fang, Mengming Li, and Zhiyao Xie, "OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation (Invited)", *International Conference on Computer-Aided Design (ICCAD)*, 2024.
 
-* **Shang Liu**, Wenji Fang, et al., "Rtlcoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution", *IEEE International Workshop on LLM-Aided Design (LAD) 2024*. **Best Paper Nomination.** [https://arxiv.org/abs/2312.08617](https://arxiv.org/abs/2312.08617)
+* **Shang Liu**, Wenji Fang, et al., "Rtlcoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution", *IEEE International Workshop on LLM-Aided Design (LAD) 2024*. **Best Paper Nomination.** 
 
 * Yao Lu\*, **Shang Liu**\*, et al., "RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model", *Asia and South Pacific Design Automation Conference (ASP-DAC) 2024*. (\***Equal Contribution**).
 

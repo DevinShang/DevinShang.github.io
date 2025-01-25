@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shang Liu, a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. Zhiyao Xie. Before that, I received a bachelor's degree in EE from Beihang University in 2023. My research interests include the large language model, AI algorithms, and electronic design automation. 
+I am Shang Liu, a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before that, I received a bachelor's degree in EE from Beihang University in 2023. My research interests include the large language model, AI algorithms, and electronic design automation. 
 
 Research Interests
 ======

@@ -26,7 +26,7 @@ Publication
 
 * **Shang Liu**, Wenji Fang, Yao Lu, Qijun Zhang, and Zhiyao Xie, "Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
 
-* **Shang Liu**, Yao Lu\*, Wenji Fang\*, Mengming Li, and Zhiyao Xie, "OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation (Invited)", *International Conference on Computer-Aided Design (ICCAD)*, 2024.
+* **Shang Liu**\*, Yao Lu\*, Wenji Fang\*, Mengming Li, and Zhiyao Xie, "OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation (Invited)", *International Conference on Computer-Aided Design (ICCAD)*, 2024.
 
 * **Shang Liu**, Wenji Fang, et al., "Rtlcoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution", *IEEE International Workshop on LLM-Aided Design (LAD) 2024*. **Best Paper Nomination.** 
 

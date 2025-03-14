@@ -24,9 +24,19 @@ Publication
 ======
 * **Shang Liu**\* Jing WANG\*, Wenji Fang, and Zhiyao Xie, "SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
+*Wenji Fang, Wenkai Li, **Shang Liu**, Yao Lu, Hongce Zhang, and Zhiyao Xie, "NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
+
+*Wenji Fang, **Shang Liu**, Jing Wang, and Zhiyao Xie, "CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design", *International Conference on Learning Representations (ICLR)*, 2025.
+
 * **Shang Liu**, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
 
 * **Shang Liu**, Wenji Fang, Yao Lu, Qijun Zhang, and Zhiyao Xie, "Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
+
+* Wenji Fang, **Shang Liu**, Hongce Zhang, and Zhiyao Xie, "A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
+
+* Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, **Shang Liu**, Zhiyao Xie, and Hongce Zhang, "AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
+
+* Wenji Fang, Yao Lu, **Shang Liu**, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie, "Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
 
 * **Shang Liu**\*, Yao Lu\*, Wenji Fang\*, Mengming Li, and Zhiyao Xie, "OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation (Invited)", *International Conference on Computer-Aided Design (ICCAD)*, 2024.
 
@@ -34,11 +44,6 @@ Publication
 
 * Yao Lu\*, **Shang Liu**\*, et al., "RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model", *Asia and South Pacific Design Automation Conference (ASP-DAC) 2024*.
 
-* Wenji Fang, Yao Lu, **Shang Liu**, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie, "Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
-
-* Wenji Fang, **Shang Liu**, Hongce Zhang, and Zhiyao Xie, "A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
-
-* Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, **Shang Liu**, Zhiyao Xie, and Hongce Zhang, "AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
 
 * Wenji Fang, **Shang Liu**, et al., "Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization", *ACM/IEEE Design Automation Conference (DAC) 2024*.
 

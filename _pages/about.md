@@ -22,6 +22,8 @@ Education
 
 Publication
 ======
+* **Shang Liu**\* Jing WANG\*, Wenji Fang, and Zhiyao Xie, "SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
+
 * **Shang Liu**, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
 
 * **Shang Liu**, Wenji Fang, Yao Lu, Qijun Zhang, and Zhiyao Xie, "Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage", *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.

@@ -24,9 +24,9 @@ Publication
 ======
 * **Shang Liu**\* Jing WANG\*, Wenji Fang, and Zhiyao Xie, "SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
-*Wenji Fang, Wenkai Li, **Shang Liu**, Yao Lu, Hongce Zhang, and Zhiyao Xie, "NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
+* Wenji Fang, Wenkai Li, **Shang Liu**, Yao Lu, Hongce Zhang, and Zhiyao Xie, "NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
-*Wenji Fang, **Shang Liu**, Jing Wang, and Zhiyao Xie, "CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design", *International Conference on Learning Representations (ICLR)*, 2025.
+* Wenji Fang, **Shang Liu**, Jing Wang, and Zhiyao Xie, "CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design", *International Conference on Learning Representations (ICLR)*, 2025.
 
 * **Shang Liu**, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
 

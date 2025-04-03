@@ -22,6 +22,10 @@ Education
 
 Publication
 ======
+* Wenji Fang, Jing Wang, Yao Lu, **Shang Liu**, Yuchao Wu, Yuzhe Ma, and Zhiyao Xie, "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA", *Preprint (a 60-page survey on circuit foundation models, covering 130+ works)*, 2025
+
+Preprint (a 60-page survey on circuit foundation models, covering 130+ works), March 2025.
+
 * **Shang Liu**\* Jing WANG\*, Wenji Fang, and Zhiyao Xie, "SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits", *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
 * Wenji Fang, Wenkai Li, **Shang Liu**, Yao Lu, Hongce Zhang, and Zhiyao Xie, "NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph", *ACM/IEEE Design Automation Conference (DAC)*, 2025.

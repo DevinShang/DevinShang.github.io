@@ -14,6 +14,7 @@ Research Interests
  * Large Language Model
  * AI Algorithm
  * Electronic Design Automation
+ * Distributed computing
 
 Education
 ======

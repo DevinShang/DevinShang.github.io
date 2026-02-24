@@ -11,8 +11,8 @@ I am Shang Liu, a third-year PhD student at the Electronic and Computer Engineer
 
 Research Interests
 ======
- * Large Language Model
- * AI Algorithm
+ * LLM Reward System
+ * LLM RL Infra
  * Electronic Design Automation
  * Distributed computing
 
@@ -24,9 +24,12 @@ Education
 Publication
 ======
 
+**2026**
+* Jing Wang\*, **Shang Liu**\*, Hangan Zhou, and Zhiyao Xie， “RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision”， *ACM/IEEE Design Automation Conference (DAC)*, 2026.
+
 **2025**
 
-* **Shang Liu**\*, Yao Lu\*, Wenji Fang, Jing Wang, and Zhiyao Xie, "SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models", *Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**)*, 2025
+* **Shang Liu**\*, Yao Lu\*, Wenji Fang, Jing Wang, and Zhiyao Xie, "SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models", *Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**)*, 2025。
 
 * Jing Wang, **Shang Liu**, Yao Lu, and Zhiyao Xie, "HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions", *International Conference on Computer-Aided Design (**ICCAD**)*, 2025.
 

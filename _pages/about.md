@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Shang Liu, a third-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before that, I received a bachelor's degree in EE from Beihang University in 2023. My research interests include the large language model, AI algorithms, electronic design automation, and high performance computing. 
+I am Shang Liu, a third-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before that, I received a bachelor's degree in EE from Beihang University in 2023. My research interests include the LLM RL infra, electronic design automation, and high performance computing. 
 
 Research Interests
 ======
- * LLM Reward System
  * LLM RL Infra
  * Electronic Design Automation
  * Distributed computing
